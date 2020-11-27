@@ -1,6 +1,6 @@
 ﻿# NetBackendBootstrap
 
-[![ryanbrandt](https://circleci.com/gh/ryanbrandt/netbackendbootstrap.svg?style=svg)](https://app.circleci.com/pipelines/github/ryanbrandt/netbackendbootstrap)
+[![ryanbrandt](https://circleci.com/gh/ryanbrandt/NetBackendBootstrap.svg?style=svg)](https://app.circleci.com/pipelines/github/ryanbrandt/NetBackendBootstrap)
 
 Generalized C# backend boilerplate and wrapper classes.
 
