@@ -5,6 +5,7 @@
     <ReleaseVersion>1.0.0</ReleaseVersion>
     <PackOnBuild>true</PackOnBuild>
     <Description>Generalized C# backend utilities and wrapper classes.</Description>
+    <RepositoryUrl>https://github.com/ryanbrandt/NetBackendBootstrap</RepositoryUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
